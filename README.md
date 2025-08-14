@@ -43,4 +43,4 @@ Shopify-Backend/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Shopify-Backend.git
+   git clone https://github.com/rutujaaa/Shopify-Backend.git
